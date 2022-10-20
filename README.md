@@ -40,7 +40,7 @@ Mobile Design:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://millanotex.github.io)
+- Live Site URL: [https://millanotex.github.io/Millanotex-Challenge_One.github.io/]
 
 ## My process
 
